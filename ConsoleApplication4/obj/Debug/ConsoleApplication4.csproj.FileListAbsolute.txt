@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\TOSHIBA\Desktop\muhdeneme\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
